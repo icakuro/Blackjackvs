@@ -1,0 +1,8 @@
+C:\Users\redom\source\repos\Blackjackvs\Blackjackvs\bin\Debug\Blackjackvs.exe.config
+C:\Users\redom\source\repos\Blackjackvs\Blackjackvs\bin\Debug\Blackjackvs.exe
+C:\Users\redom\source\repos\Blackjackvs\Blackjackvs\bin\Debug\Blackjackvs.pdb
+C:\Users\redom\source\repos\Blackjackvs\Blackjackvs\obj\Debug\Blackjackvs.csproj.AssemblyReference.cache
+C:\Users\redom\source\repos\Blackjackvs\Blackjackvs\obj\Debug\Blackjackvs.csproj.SuggestedBindingRedirects.cache
+C:\Users\redom\source\repos\Blackjackvs\Blackjackvs\obj\Debug\Blackjackvs.csproj.CoreCompileInputs.cache
+C:\Users\redom\source\repos\Blackjackvs\Blackjackvs\obj\Debug\Blackjackvs.exe
+C:\Users\redom\source\repos\Blackjackvs\Blackjackvs\obj\Debug\Blackjackvs.pdb
